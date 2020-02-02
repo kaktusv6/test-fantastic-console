@@ -19,4 +19,5 @@ function pow(val, power) {
 
 let val = 2;
 let power = 2;
+pow(val, power);
 console.fl('index.js', 'pow', 'val', val);
